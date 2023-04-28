@@ -1,7 +1,0 @@
-route_id,agency_id,route_short_name,route_long_name,route_desc,route_type,route_url,route_color,route_text_color,route_sort_order
-101,Pocono Pony,"101","Red","East Stroudsburg, Stroudsburg, Bartonsville",3,https://www.gomcta.com/routes.php#redwd,D9534F,FFFFFF,1
-102,Pocono Pony,"102","Blue","Bartonsville, Tannersville, Swiftwater, Mt. Pocono, Coolbaugh",3,https://www.gomcta.com/routes.php#bluewd,337AB7,FFFFFF,2
-103,Pocono Pony,"103","Silver","Kalahari, Mt. Pocono, PA 196",3,https://www.gomcta.com/routes.php#silver,909090,FFFFFF,3
-401,Pocono Pony,"401","Toby","Tobyhanna Army Depot",3,https://www.gomcta.com/routes.php#toby,5BC0DE,FFFFFF,5
-402,Pocono Pony,"402","EburgXprs","PA 196, Mt. Pocono, Bartonsville, Stroudsburg, East Stroudsburg",3,https://www.gomcta.com/routes.php#eburg,7030A0,FFFFFF,4
-405,Pocono Pony,"405","ShawneeSki","Wednesday Only, Limited Route",3,https://www.gomcta.com/routes.php#KalEx,000238,ffffff,6
